@@ -10,11 +10,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="90px"/>
   </a>
 
-  <a href = "">  
+  <a href = "https://instagram.com/imanishaby">  
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" width="100px"/>
   </a>
   
-   <a href = "">
+   <a href = "https://github.com/Anish-Aby">
     <img src="https://img.shields.io/badge/Github-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge" width="80px"/>
    </a>
   
