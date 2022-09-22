@@ -6,15 +6,15 @@
 </div>
 
 <div id="badges" align="center">
-  <a href = "" target="__blank">
+  <a href = "" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="90px"/>
   </a>
 
-  <a href = "https://instagram.com/imanishaby" target="__blank">  
+  <a href = "https://instagram.com/imanishaby" target="_blank">  
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" width="100px"/>
   </a>
   
-   <a href = "https://github.com/Anish-Aby" target="__blank">
+   <a href = "https://github.com/Anish-Aby" target="_blank">
     <img src="https://img.shields.io/badge/Github-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge" width="80px"/>
    </a>
   
