@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="90px"/>
   </a>
 
-  <a href = "https://instagram.com/imanishaby" target="_blank">  
+  <a href = "https://instagram.com/anish_aby_" target="_blank">  
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" width="100px"/>
   </a>
   
